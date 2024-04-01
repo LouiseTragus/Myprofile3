@@ -1,0 +1,132 @@
+body {
+	background-color: #944E63;
+	color:#FFE7E7;
+	font-family: andale mono;
+	font-size:15px;
+	color:
+	line-height: 20px;
+	text-align: center;
+}
+
+.btn-pink {
+background-color:#B47B84;
+color: floralwhite;
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+.btn-pink:hover {
+background-color:#944E63;
+color: floralwhite;
+
+}
+
+h1 {
+	color: #99154E;
+	font-family: impact;
+	text-align: center;
+	letter-spacing: 0.00001em;
+}
+
+a{
+	text-decoration: none;
+}
+h2, h3, h4 {
+	font-family: impact; 
+	letter-spacing: 0.0001em;
+	color:#944E63;
+
+
+	
+}
+
+a {
+	text-decoration: none;
+	color: #944E63;
+}
+
+a:hover {
+	color: rgb(255, 0, 127);
+}
+
+.profile {
+border-radius: 50%;
+max-width: 100%;
+height: auto;
+}
+
+
+#intro {
+background-color: #CAA6A6;
+
+}
+
+#intro p {
+margin-bottom: 25px;
+
+}
+#section2 {
+background-color: #B47B84;
+margin-bottom: 25px;
+margin: 10 auto;
+
+}
+
+#section3 {
+background-color: #B47B84;
+
+}
+
+#section4 {
+background-color: #B47B84;
+
+}
+
+#section5 {
+background-color: #FFE7E7;
+
+}
+.font-styles {
+	margin-bottom: 5px;
+	justify-content: center;
+	border-radius: 25px;
+	box-shadow: 0 10px 50px rgba(0, 0, 0, 0.3);
+	margin: 70px;
+	border: 5px solid;
+	padding: 12px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 30px;
+	color: #944E63;
+}
+
+.list-inline i:hover {
+	color: #944E63;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 10 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
